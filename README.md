@@ -11,9 +11,9 @@ This version is a Python 3 adaptation of the original at [https://github.com/gar
 Installation
 ============
 
-Install this project from PyPI by running the command below:
+Install this project from this repository by running the command below:
 
-```$ pip install geopdf```
+```$ pip install https://github.com/GeospatialPython/geopdf-py3/archive/master.zip```
 
 or alternatively from source (github master):
 
