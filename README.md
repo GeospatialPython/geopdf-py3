@@ -1,12 +1,12 @@
 GeoPDF
 ======
 
-[![Build Status](https://travis-ci.org/garnertb/geopdf.svg?branch=master)](https://travis-ci.org/garnertb/geopdf)
-
 GeoPDF is a simple wrapper around [ReportLab](http://www.reportlab.com/) that allows developers to create basic GeoPDFs by
 following the [GeoPDF Encoding Best Practices](http://portal.opengeospatial.org/files/?artifact_id=33332)
 published by the Open Geospatial Consortium.  In its current state, this project only exposes the bare minimum needed for
 developers to create a GeoPDF in reportlab.
+
+This version is a Python 3 adaptation of the original at [https://github.com/garnertb/geopdf](https://github.com/garnertb/geopdf) developed for Python 2.
 
 Installation
 ============
@@ -17,7 +17,7 @@ Install this project from PyPI by running the command below:
 
 or alternatively from source (github master):
 
-```$ pip install git+https://github.com/garnertb/geopdf.git#egg=geopdf```
+```$ pip install git+https://github.com/GeospatialPython/geopdf.git#egg=geopdf```
 
 
 Creating a GeoPDF
